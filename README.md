@@ -66,8 +66,8 @@ for client
 
     gcc client.c -lcrypto -o client && ./client
 
-## Need to add
+## What's next ?
 
- - Multi-users (clients) , instead of only one client. (group of chat).
+ - Adding Multi-users (clients) , instead of only one client. (group of chat).
  - Optimize it : using stack instead of global variables.
  - Also im thinking about integrating some asm code.
